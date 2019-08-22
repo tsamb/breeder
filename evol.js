@@ -5,7 +5,7 @@ try {
   console.log('crypto support is disabled!');
 }
 
-const MUTATION_CHANCE = 1;
+const MUTATION_CHANCE = 0.1;
 const MUTATION_STRENGTH = 0.2;
 
 var breed_dictionary = {};
